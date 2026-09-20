@@ -1,0 +1,31 @@
+# Virtual Env
+.venv/
+venv/
+ENV/
+env/
+
+# Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# DB
+*.db
+*.sqlite3
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Log - Env
+*.log
+.env
