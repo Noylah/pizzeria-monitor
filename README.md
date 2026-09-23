@@ -145,6 +145,3 @@ This project is not currently under any specified license. Use at your own discr
 <p align="center">
   Built with ❤️ by Noylah
 </p>
-<p align="center">
-  Star this repository ⭐ | Fork it 🍴 | Report issues 📣
-</p>
